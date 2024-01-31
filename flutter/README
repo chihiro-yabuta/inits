@@ -1,0 +1,15 @@
+## Get Started
+
+```
+make
+```
+
+## Run React
+
+```
+flutter create pj --platforms ios -e
+```
+
+```
+flutter run
+```
